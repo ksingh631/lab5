@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab5.py
+=================================================================
+    User login name: ksingh631
+    Linux system name: KushagraAsus
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/ksingh631/ops445/lab5
+    Start at: Tue Nov  5 17:10:19 2024
+=================================================================
